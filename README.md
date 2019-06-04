@@ -19,7 +19,7 @@ Blog is live and has a decent explanation of the poker_game.py inner workings.
 Poker game doesn't execute fully:
 
 ```
-python poker_game.py
+$ python poker_game.py
 How many players are you? 3
 What is your name? Bru
 [Q, K, 4, J, J]
